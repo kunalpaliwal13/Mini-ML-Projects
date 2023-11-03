@@ -12,3 +12,9 @@ Predicts if a person has heart disease or not based on various health parameters
 
 ## 4. Spam Mail Detection
 Predicts if a mail is spam or ham based on its content using *Logistic Regression*
+
+## 5. Cammeo and Osmancik Rice Prediction
+Predict rice category based on various features using *Logistic Regression*
+
+
+
