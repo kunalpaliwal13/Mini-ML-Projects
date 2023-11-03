@@ -16,5 +16,8 @@ Predicts if a mail is spam or ham based on its content using *Logistic Regressio
 ## 5. Cammeo and Osmancik Rice Prediction
 Predict rice category based on various features using *Logistic Regression*
 
+## 6. Loan Approval Prediction
+Predict whether a person will be aproved of a loan based on various features using *Support Vector Classifier*
+
 
 
