@@ -19,5 +19,10 @@ Predict rice category based on various features using *Logistic Regression*
 ## 6. Loan Approval Prediction
 Predict whether a person will be aproved of a loan based on various features using *Support Vector Classifier*
 
+## 7. Cat vs Dog Classification
+Predicting whether a given image is either cat or dog using CNN.
+
+
+
 
 
