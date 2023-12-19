@@ -23,6 +23,11 @@ Predict whether a person will be aproved of a loan based on various features usi
 Predicting whether a given image is either cat or dog using CNN.
 
 
+## 8. Wine Quality Prediction using Regression
+Predicting the quality of a wine using XGB and SVM Regression.
+
+
+
 
 
 
