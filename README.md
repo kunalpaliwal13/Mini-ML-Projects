@@ -10,7 +10,7 @@ Predict if the material scanned is a Rock or a Mine based on unknown data values
 ## 3. Heart Disease Prediction
 Predicts if a person has heart disease or not based on various health parameters using *Logistic Regression*
 
-## 4. Spam Mail Detection
+## 4. Spam Mail Detection (Implementation + Web App)
 Predicts if a mail is spam or ham based on its content using *Logistic Regression*
 
 ## 5. Cammeo and Osmancik Rice Prediction
